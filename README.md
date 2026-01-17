@@ -6,4 +6,6 @@ EXT::md
 
 
 
-![LHB-ASCII](assets/LHB-ASCII.png)
+![[76 72 66 45 65 83 67 73 73 46 10 91 00
+<img width="1024" height="702" alt="76 72 66 45 65 83 67 73 73 46 10 91 00" src="https://github.com/user-attachments/assets/bff0d7ea-6917-42e1-8fd0-b5a64782b2cc" />
+](https://github.com/Thrumanshow/HormigasAIS-Investment-Kit/blob/7c4280d292ff9b0320e34e06d50ea4e7e05060f2/76%2072%2066%2045%2065%2083%2067%2073%2073%2046%2010%2091%2000.png)
