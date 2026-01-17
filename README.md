@@ -5,8 +5,5 @@ SIGNATURE::
 EXT::md
 
 
----
 
-
-
-![LHB-ASCII](https://github.com/Thrumanshow/HormigasAIS-LBH-Demo/blob/main/LHB-ASCII.png)
+![LHB-ASCII](assets/LHB-ASCII.png)
